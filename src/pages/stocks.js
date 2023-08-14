@@ -12,6 +12,7 @@ export default function Stocks(props) {
     
       <div className="flex justify-between ml-8 mt-10 flex-wrap">
         <h3>
+          {/* filter? */}
           {name}
           <hr />
         </h3>
